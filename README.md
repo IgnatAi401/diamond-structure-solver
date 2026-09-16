@@ -1,8 +1,8 @@
-# diamond-structure-solver
+# Diamond Structure Solver
 
 ## Project Description
 
-`diamond-structure-solver` is designed to solve and visualize the diamond structure of shock waves based on initial parameter settings. The project consists of the following functional modules.
+Diamond Structure Solver is designed to solve and visualize the diamond structure of shock waves based on initial parameter settings. The project consists of the following functional modules.
 
 ## Functional Modules
 
