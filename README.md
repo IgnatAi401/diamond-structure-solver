@@ -25,3 +25,7 @@ In this module, the areas are numbered in the order shown in the figure.
 ### 3. Solve for Thetas
 
 In this module, the relationship between `theta` and the area number is established in order to calculate the `theta` value for each area.
+
+## License
+
+This project is licensed under the terms in [LICENSE](LICENSE).
