@@ -26,6 +26,13 @@ In this module, the areas are numbered in the order shown in the figure.
 
 In this module, the relationship between `theta` and the area number is established in order to calculate the `theta` value for each area.
 
+## Files
+
+- `DiamondStructureSolver.mlapp`: the MATLAB App Designer app;
+- `Solution.m`: the main solution script;
+- `solve_M.m`, `solve_Me.m`, `solve_omega.m`: helper functions;
+- `hw10.mlx`, `hw10SA.mlx`: MATLAB live scripts.
+
 ## License
 
 This project is licensed under the terms in [LICENSE](LICENSE).
